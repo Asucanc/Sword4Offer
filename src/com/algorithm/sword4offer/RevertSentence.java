@@ -1,3 +1,5 @@
+package com.algorithm.sword4offer;
+
 /**
  * 题目描述
  * 牛客最近来了一个新员工Fish，每天早晨总是会拿着一本英文杂志，写些句子在本子上。
@@ -29,7 +31,7 @@ public class RevertSentence {
     }
 
     //解法2： 将单词转换为字符数组，进行两次位置互换。第一次全局，第二次针对单词
-    //注意点： 在循环中如果需要根据循环索引计算得到新的值，如下面的 leftIndex = i + 1, 不能写作 left = i++;
+    //注意点： 在循环中如果需要根据循环索引计算得到新的值，如下面的 leftIndex = i + 1.java, 不能写作 left = i++;
     public String revertSentenceByCharArray(String str) {
         if ("".equals(str) || str == null) {
             return str;

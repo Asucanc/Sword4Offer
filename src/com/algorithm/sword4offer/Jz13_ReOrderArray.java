@@ -1,3 +1,5 @@
+package com.algorithm.sword4offer;
+
 /**
  * 题目描述
  * 输入一个整数数组，实现一个函数来调整该数组中数字的顺序，
