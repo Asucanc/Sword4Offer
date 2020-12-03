@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e61f2a8f-fe5e-47f9-94dc-24892ca644f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sort/MergeAndSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz29_GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz32_PrintMinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz35_InversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/JZ37_GetNumberOfK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz42_FindNumbersWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz50_FindDuplicateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz51_Multiply.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jz01_FindInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz01_FindInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jz04_ReConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz04_ReConstructBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jz07_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz07_Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jz13_ReOrderArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz13_ReOrderArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Jz19_PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz19_PrintMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RevertSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/algorithm/sword4offer/RevertSentence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,11 +43,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algorithm/sort/MergeAndSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            <state relative-caret-position="210">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/JZ37_GetNumberOfK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -89,28 +92,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz29_GetLeastNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz32_PrintMinNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz35_InversePairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
+            <state relative-caret-position="-712">
               <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz42_FindNumbersWithSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz50_FindDuplicateNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz51_Multiply.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -129,9 +144,11 @@
       <find>worlds</find>
       <find>copyOf</find>
       <find>start1</find>
+      <find>rigth</find>
     </findStrings>
     <replaceStrings>
       <replace>words</replace>
+      <replace>right</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -156,14 +173,16 @@
         <option value="$PROJECT_DIR$/src/com/algorithm/sort/1.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/sort/2.java" />
         <option value="$PROJECT_DIR$/src/com/algorithm/sort/MergeAndSort.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/sword4offer/JZ37_GetNumberOfK.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz42_FindNumbersWithSum.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz50_FindDuplicateNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz51_Multiply.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="y" value="25" />
-    <option name="width" value="1280" />
-    <option name="height" value="1354" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -198,6 +217,13 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Sword4Offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sword4Offer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="sword4offer" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,24 +251,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeAndSort">
-    <configuration name="Jz13_ReOrderArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kenshin.test.Jz13_ReOrderArray" />
+  <component name="RunManager" selected="Application.Jz50_FindDuplicateNumber">
+    <configuration name="JZ37_GetNumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.sword4offer.JZ37_GetNumberOfK" />
       <module name="Sword4Offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Jz19_PrintMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kenshin.test.Jz19_PrintMatrix" />
-      <module name="Sword4Offer" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Jz29_GetLeastNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kenshin.test.Jz29_GetLeastNumbers" />
-      <module name="Sword4Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.sword4offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -250,6 +268,32 @@
     <configuration name="Jz35_InversePairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kenshin.test.Jz35_InversePairs" />
       <module name="Sword4Offer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jz42_FindNumbersWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.sword4offer.Jz42_FindNumbersWithSum" />
+      <module name="Sword4Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.sword4offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jz50_FindDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.algorithm.sword4offer.Jz50_FindDuplicateNumber" />
+      <module name="Sword4Offer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.algorithm.sword4offer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -269,11 +313,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jz50_FindDuplicateNumber" />
+        <item itemvalue="Application.Jz42_FindNumbersWithSum" />
+        <item itemvalue="Application.JZ37_GetNumberOfK" />
         <item itemvalue="Application.MergeAndSort" />
         <item itemvalue="Application.Jz35_InversePairs" />
-        <item itemvalue="Application.Jz29_GetLeastNumbers" />
-        <item itemvalue="Application.Jz19_PrintMatrix" />
-        <item itemvalue="Application.Jz13_ReOrderArray" />
       </list>
     </recent_temporary>
   </component>
@@ -289,18 +333,18 @@
       <updated>1605332799894</updated>
       <workItem from="1605332801568" duration="26199000" />
       <workItem from="1605521184413" duration="1128000" />
-      <workItem from="1605943815296" duration="31873000" />
+      <workItem from="1605943815296" duration="41497000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59200000" />
+    <option name="totallyTimeSpent" value="68824000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="25" width="1280" height="1354" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18416801" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23462088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -308,18 +352,18 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32961783" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20302548" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989704" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961783" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1746988" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.57821226" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32818532" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -342,6 +386,12 @@
           <line>37</line>
           <properties />
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/algorithm/sword4offer/JZ37_GetNumberOfK.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -400,13 +450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz35_InversePairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/RevertSentence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -435,16 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz19_PrintMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/sort/2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -461,8 +494,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/algorithm/sort/MergeAndSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz35_InversePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-712">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz19_PrintMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/JZ37_GetNumberOfK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz42_FindNumbersWithSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="39" column="48" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz50_FindDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/algorithm/sword4offer/Jz51_Multiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
