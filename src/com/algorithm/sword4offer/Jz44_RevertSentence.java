@@ -8,7 +8,7 @@ package com.algorithm.sword4offer;
  * 正确的句子应该是“I am a student.”。
  * Cat对一一的翻转这些单词顺序可不在行，你能帮助他么？
  */
-public class RevertSentence {
+public class Jz44_RevertSentence {
     //解法1： 针对这道题 可以简单的先将单词拆分，以单词为最小元素进行位置的互换
     public String reverseSentence(String str) {
         String[] words = str.split(" ");
@@ -61,10 +61,8 @@ public class RevertSentence {
 
 
     public static void main(String[] args) {
-        RevertSentence revertSentence = new RevertSentence();
+        Jz44_RevertSentence jz44RevertSentence = new Jz44_RevertSentence();
         String testStr = "YOU AM I";
-        System.out.println(revertSentence.revertSentenceByCharArray(testStr));
-
-
+        System.out.println(jz44RevertSentence.revertSentenceByCharArray(testStr));
     }
 }
