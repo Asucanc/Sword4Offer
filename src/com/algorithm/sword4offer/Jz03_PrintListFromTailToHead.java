@@ -32,20 +32,11 @@ public class Jz03_PrintListFromTailToHead {
 
     //利用递归
     ArrayList<Integer> res  = new ArrayList<Integer>();
-    public ArrayList<Integer> printListFromTailToHead1(ListNode listNode) {
+    public ArrayList<Integer> printListFromTailToHead0(ListNode listNode) {
         if (listNode != null) {
             printListFromTailToHead(listNode.next);
             res.add(listNode.val);
         }
         return res;
-    }
-
-    public class ListNode {
-        int val;
-        ListNode next = null;
-
-        ListNode(int val) {
-            this.val = val;
-        }
     }
 }
