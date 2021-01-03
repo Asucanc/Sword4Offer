@@ -81,5 +81,5 @@ public class Jz61_SerializeAndDeserializeTree {
         return root;
     }
 
-    //补充 前序遍历解法。
+    //补充 前序遍历结果
 }
