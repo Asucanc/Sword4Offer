@@ -8,7 +8,7 @@ package com.algorithm.sword4offer;
  * 返回值：
  * 4
  */
-public class JZ37_GetNumberOfK {
+public class Jz37_GetNumberOfK {
     public int getNumberOfK(int[] array, int k) {
        if (array.length <= 0 || array == null) {
            return 0;
@@ -38,6 +38,6 @@ public class JZ37_GetNumberOfK {
 
     public static void main(String[] args) {
         int arr[] = { 1,3,3,3,3,4,5};
-        System.out.println(new JZ37_GetNumberOfK().getNumberOfK(arr, 6));
+        System.out.println(new Jz37_GetNumberOfK().getNumberOfK(arr, 6));
     }
 }
